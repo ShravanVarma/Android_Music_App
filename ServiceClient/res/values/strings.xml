@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ServiceClient</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="play_song_1">Play Song 1</string>
+    <string name="play_song_2">Play Song 2</string>
+    <string name="play_song_3">Play Song 3</string>
+    <string name="list">List</string>
+    <string name="title_activity_transactions">Transactions</string>
+    <string name="empty">Empty</string>
+
+</resources>
